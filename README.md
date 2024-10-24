@@ -1,7 +1,3 @@
-Aquí tienes un resumen que incluye la descripción de la práctica y definiciones de los métodos utilizados, sin instrucciones:
-
----
-
 # Práctica de JavaScript: Manipulación de Cadenas (Strings).
 
 ## Descripción.

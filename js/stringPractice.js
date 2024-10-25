@@ -102,7 +102,7 @@ console.log(challenge.endsWith('Script'));
 
 //Utilice el método match() para encontrar todas las a en 30 días de JavaScript
 console.log(challenge.match(/a/gi));
-// Resultado: ['a'] (devuelve un array con las coincidencias de 'a')
+// Resultado: ['a', 'a', 'a'] (devuelve un array con todas las coincidencias de 'a'
 
 //Utilice concat() y combine '30 días de' y 'JavaScript' en una sola cadena, '30 días de JavaScript'
 let number = '30';
